@@ -22,5 +22,9 @@ public class Gitsample {
 		System.out.println("ganesh ");
 
 	}
+	
+	private void sinipriya() {
+		System.out.println("hebkwhkgdv");
+	}
 
 }
