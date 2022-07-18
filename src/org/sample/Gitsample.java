@@ -7,5 +7,9 @@ public class Gitsample {
 		System.out.println("rachdkjoifsj");
 
 	}
+	
+	private void rocky() {
+		System.out.println("rahbasjkadknad");
+	}
 
 }
