@@ -11,5 +11,10 @@ public class Gitsample {
 	private void rocky() {
 		System.out.println("rahbasjkadknad");
 	}
+	
+	private void ranga() {
+		System.out.println("ranga hgakuhale");
+
+	}
 
 }
